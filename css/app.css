@@ -1,0 +1,54 @@
+.ui-title{
+	font-size:16px !important;
+}
+.ui-li-heading {
+	font-size:14px !important;	
+}
+.nav-smart .ui-btn .ui-btn-inner {
+    padding-top: 40px !important; 
+}
+
+.nav-smart .ui-btn .ui-icon { 
+    width: 30px!important; 
+    height: 30px!important; 
+    margin-left: -14px !important; 
+    box-shadow: none!important; 
+    -moz-box-shadow: none!important; 
+    -webkit-box-shadow: none!important;
+    -webkit-border-radius: none !important;
+    border-radius: none !important; 
+}
+
+#favorite .ui-icon { 
+	background:#fff;
+    background-image: url(../images/star.png);
+    background-repeat: no-repeat;
+       background-position-x: 1px;
+    background-position-y: 1px; 
+}
+
+#invitation .ui-icon { 
+	background:#fff;
+    background-image: url(../images/house.png);
+     background-repeat: no-repeat;
+     width:28px;
+    height:28px;
+       background-position-x: 3px;
+    background-position-y: 3px; 
+}
+
+#aggregate .ui-icon { 
+	background:#fff;
+    background-image: url(../images/dashboard.png);
+     background-repeat: no-repeat;
+        background-position-x: 1px;
+    background-position-y: 1px; 
+}
+
+#setup .ui-icon { 
+	background:#fff;
+    background-image: url(../images/gear.png);
+     background-repeat: no-repeat;
+        background-position-x: 1px;
+    background-position-y: 1px; 
+}
